@@ -1,4 +1,4 @@
-# Avionic Altimeter Noise Reduction via Time Series Modeling
+# Avionic Noise Reduction - Filtering Analog Voltage Data
 
 ## Project Overview
 
@@ -160,6 +160,12 @@ These results demonstrate the usefulness of ARIMA-based filtering for avionic se
 3. Run `STAT626_Project.R` to reproduce the analysis
 
 ---
+
+## Presentation
+A summary of the project’s methodology, results, and conclusions
+is available in the final presentation:
+
+- [`avionic-noise-reduction-slides.pdf`](Presentation/avionic-noise-reduction-slides.pdf)
 
 ## Acknowledgments
 
