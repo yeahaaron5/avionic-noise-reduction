@@ -167,6 +167,8 @@ is available in the final presentation:
 
 - [`avionic-noise-reduction-slides.pdf`](Presentation/avionic-noise-reduction-slides.pdf)
 
+---
+
 ## Acknowledgments
 
 This project was completed as a collaborative group effort, integrating statistical theory and computational implementation to address sensor noise in avionic systems.
