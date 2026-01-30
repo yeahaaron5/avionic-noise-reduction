@@ -115,7 +115,7 @@ The selected ARIMA(0,1,1) model can be expressed as:
 where:
 
 * (B) is the backshift operator
-* (y_t) represents the measured voltage at time (t)
+* ($y_t$) represents the measured voltage at time (t)
 * (\varepsilon_t) is white noise
 
 The differencing operator removes trend, while the moving-average term models transient sensor noise effects.
