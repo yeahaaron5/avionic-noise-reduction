@@ -108,7 +108,7 @@ This configuration effectively models correlated noise while preserving underlyi
 
 The selected ARIMA(0,1,1) model can be expressed as:
 
-(1 - B)$y_t$
+(1 - B)($y_t$)
 
 where:
 
