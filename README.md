@@ -109,14 +109,14 @@ This configuration effectively models correlated noise while preserving underlyi
 The selected ARIMA(0,1,1) model can be expressed as:
 
 [
-(1 - B)y_t = (1 + \theta_1 B)\varepsilon_t
+(1 - B)$y_t$ = (1 + $\theta_1$ B)$\varepsilon_t$
 ]
 
 where:
 
 * (B) is the backshift operator
 * ($y_t$) represents the measured voltage at time (t)
-* (\varepsilon_t) is white noise
+* ($\varepsilon_t$) is white noise
 
 The differencing operator removes trend, while the moving-average term models transient sensor noise effects.
 
